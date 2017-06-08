@@ -25,6 +25,7 @@ namespace Project
         DataRow dRowCar;
         DataRow dRowCustomer;
         DataRow dRowDriver;
+        int myInt = 0;
         int inc = 0;
         int AccessReceiver = 0;
         int MaxRows;
